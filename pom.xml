@@ -47,7 +47,7 @@
 				<version>0.8.12</version>
 				<configuration>
 					<excludes>
-						<exclude>be.vdab.goededoel.GoedeDoelApplication.class</exclude>
+						<exclude>be/vdab/goededoel/GoedeDoelApplication.class</exclude>
 					</excludes>
 				</configuration>
 				<executions>
