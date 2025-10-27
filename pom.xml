@@ -33,6 +33,7 @@
                 <groupId>org.jacoco</groupId>
                 <artifactId>jacoco-maven-plugin</artifactId>
                 <version>0.8.14</version>
+                <!--
                 <executions>
                     <execution>
                         <goals>
@@ -47,6 +48,7 @@
                         </goals>
                     </execution>
                 </executions>
+                -->
             </plugin>
             <plugin>
                 <groupId>com.github.spotbugs</groupId>
